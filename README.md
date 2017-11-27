@@ -14,6 +14,9 @@ Resources:
 [Rapport antal bränder i flyktingbostäder](https://www.msb.se/Upload/Kunskapsbank/Olycksundersokningar_ovrigt/Lagesbeskrivning_kring_brander_i_flyktingboenden_2012-2016.pdf)
 [Sveriges statistik bas](http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__ME__ME0104__ME0104C/?rxid=d3d03ba0-9be5-4c66-9838-ffee7e72be58)
 
+[Sveriges radio](http://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=6283376#vilhelmina)
+
+
 ## Narrative
 ![Photo](https://i.imgur.com/cl1uJVR.jpg) Det nedbrända flyktingboendet i Sigtuna. Foto: Lars Pehrson
 
