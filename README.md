@@ -1,6 +1,12 @@
-## Welcome to My Final Project
+Final Project
+Data vizalisation Class, DSI SVA
+12/14/17
 
-This is my final....
+## Overview of last years increase of classified hate crimes in Sweden
+
+This is my final project focusing on the increased developement of hate crime in Sweden from 2013. 
+Definition of Hate crime: xx
+
 
 ### Map (like with Carto)
 
