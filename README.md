@@ -8,6 +8,12 @@ This is my final project focusing on the increased developement of hate crime in
 The open data comes from...
 View the project as rendered [here](https://sofialauren.github.io/Final-Project/)
 
+Resources:
+[Brå Hatbrottsstatistik](https://www.bra.se/brott-och-statistik/statistiska-undersokningar/hatbrottsstatistik.html)
+[Brå rapport](https://www.bra.se/download/18.3c6dfe1e15691e1603eb65e3/1474958157817/2016_15_Hatbrott_2015.pdf)
+[Rapport antal bränder i flyktingbostäder](https://www.msb.se/Upload/Kunskapsbank/Olycksundersokningar_ovrigt/Lagesbeskrivning_kring_brander_i_flyktingboenden_2012-2016.pdf)
+[Sveriges statistik bas](http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__ME__ME0104__ME0104C/?rxid=d3d03ba0-9be5-4c66-9838-ffee7e72be58)
+
 ## Description
 Description of the data, where its from, how I used it
 
