@@ -5,8 +5,30 @@ Data vizalisation Class, DSI SVA
 ## Overview of last years increase of classified hate crimes in Sweden
 
 This is my final project focusing on the increased developement of hate crime in Sweden from 2013. 
-Definition of Hate crime: xx
+The open data comes from...
+View the project as rendered [here](https://sofialauren.github.io/Final-Project/)
 
+## Description
+Description of the data, where its from, how I used it
+
+## Usage
+xx
+
+## Procedure 
+
+### Cleaning
+xx
+
+### Visalization
+xx
+
+### Analyse
+xx
+
+
+
+
+// 
 
 ### Map (like with Carto)
 
