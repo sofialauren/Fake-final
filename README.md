@@ -14,6 +14,9 @@ Resources:
 [Rapport antal bränder i flyktingbostäder](https://www.msb.se/Upload/Kunskapsbank/Olycksundersokningar_ovrigt/Lagesbeskrivning_kring_brander_i_flyktingboenden_2012-2016.pdf)
 [Sveriges statistik bas](http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__ME__ME0104__ME0104C/?rxid=d3d03ba0-9be5-4c66-9838-ffee7e72be58)
 
+## Narrative
+![Photo](https://i.imgur.com/cl1uJVR.jpg)
+
 ## Description
 Description of the data, where its from, how I used it
 
