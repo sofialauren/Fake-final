@@ -43,23 +43,16 @@ xx
 I want to illustrate narrative with:
 Timeline (Have csv file for this, creating myself)
 
-** [The Data Vizualisation Catalogue](https://datavizcatalogue.com/)
-** [Select Data visualisation](http://selection.datavisualization.ch/)
+* [The Data Vizualisation Catalogue](https://datavizcatalogue.com/)
+* [Select Data visualisation](http://selection.datavisualization.ch/)
+
+Style guide
+* [Style guide for final project](https://docs.google.com/presentation/d/1HL4apfugezWc4-l2O0Kdm9mZONv9z3Lseq1X8V0as9M/edit#slide=id.p)
 
 ### Analyse
 xx
 
-
-
-// 
-
-### Map (like with Carto)
-
-- Copy the link
-- Download to csv
-- Put in spreadsheet 
-- Upload to RAW
-
+//
 
 ### Jekyll Themes
 
