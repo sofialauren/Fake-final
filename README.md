@@ -10,20 +10,20 @@ View the project as rendered [here](https://sofialauren.github.io/Final-Project/
 [Test timeline with tiki-toki](https://www.tiki-toki.com/timeline/entry/953280/Fires-at-asylum-homes/)
 
 Data:
-** [Brå Hatbrottsstatistik](https://www.bra.se/brott-och-statistik/statistiska-undersokningar/hatbrottsstatistik.html)
-** [Brå rapport](https://www.bra.se/download/18.3c6dfe1e15691e1603eb65e3/1474958157817/2016_15_Hatbrott_2015.pdf)
-** [Rapport antal bränder i flyktingbostäder](https://www.msb.se/Upload/Kunskapsbank/Olycksundersokningar_ovrigt/Lagesbeskrivning_kring_brander_i_flyktingboenden_2012-2016.pdf)
-** [Sveriges statistik bas](http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__ME__ME0104__ME0104C/?rxid=d3d03ba0-9be5-4c66-9838-ffee7e72be58)
-** [Sveriges radio](http://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=6283376#vilhelmina)
+* [Brå Hatbrottsstatistik](https://www.bra.se/brott-och-statistik/statistiska-undersokningar/hatbrottsstatistik.html)
+* [Brå rapport](https://www.bra.se/download/18.3c6dfe1e15691e1603eb65e3/1474958157817/2016_15_Hatbrott_2015.pdf)
+* [Rapport antal bränder i flyktingbostäder](https://www.msb.se/Upload/Kunskapsbank/Olycksundersokningar_ovrigt/Lagesbeskrivning_kring_brander_i_flyktingboenden_2012-2016.pdf)
+* [Sveriges statistik bas](http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__ME__ME0104__ME0104C/?rxid=d3d03ba0-9be5-4c66-9838-ffee7e72be58)
+* [Sveriges radio](http://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=6283376#vilhelmina)
 
 Inspiration:
-** [Hart Island](https://www.hartisland.net/burial_records/map)
-** [Propublica Louisiana](http://projects.propublica.org/louisiana/)
-** [Drones Attacks Packistan](http://drones.pitchinteractive.com/)
+* [Hart Island](https://www.hartisland.net/burial_records/map)
+* [Propublica Louisiana](http://projects.propublica.org/louisiana/)
+* [Drones Attacks Packistan](http://drones.pitchinteractive.com/)
 
 Tools:
-** [Timline JS](https://timeline.knightlab.com/)
-** [Google Developer](https://google-developers.appspot.com/chart/interactive/docs/gallery/timeline)
+* [Timline JS](https://timeline.knightlab.com/)
+* [Google Developer](https://google-developers.appspot.com/chart/interactive/docs/gallery/timeline)
 
 ## Narrative
 ![Photo](https://i.imgur.com/cl1uJVR.jpg) Det nedbrända flyktingboendet i Sigtuna. Foto: Lars Pehrson
