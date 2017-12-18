@@ -16,10 +16,12 @@ Among the hate crimes that often don't show up in police reports as hate crimes,
 * 14 uknown
 * 4 data not available
 
+![Picture burnet refugee residence in Sigtuna](https://i.imgur.com/cl1uJVR.jpg) Photo: Lars Pehrson
+
+
 
 
 ## Narrative
-![Photo](https://i.imgur.com/cl1uJVR.jpg) Det nedbrända flyktingboendet i Sigtuna. Foto: Lars Pehrson
 
 ## Description
 Description of the data, where its from, how I used it
