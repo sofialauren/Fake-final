@@ -1,16 +1,21 @@
-Final Project
+Final Project,
 Data vizalisation Class, DSI SVA
-12/14/17
+12/19/17
+
+View the project as rendered [here](https://sofialauren.github.io/Final-Project/).
 
 ## Overview of last years increase of classified hate crimes in Sweden
 
 My final project focusing on the increased number of hate crimes in Sweden from 2013. [The Swedish National Council for Crime Prevention](https://www.bra.se/bra-in-english/home/about-bra.html) produces data and research to provide knowledge and assist crime prevention work. [Published statistic](https://www.bra.se/bra-in-english/home/crime-and-statistics/hate-crime.html) shows that the number of hate crimes with xenophobic / racist motive has increased as the number of hate crimes in general. They gather data from police reports identified as hate violation motives. But the number of police reports can only provide indications of how hate crimes are noted in police notifications but it says very little about the incidence of hate in society because most criminal events are not reported to police. Motives due to religious preferances, such as Christianophobic or Islamophobic has the most significant increase, while motives due to sexual orientation have slowly decreased from 2013. 
 
-Among the hate crimes that often don't show up in police reports as hate crimes, are fires in asylum accomodations. Houses where people who come to seek asulym temporarly live while waiting for an answer if they are allowed to stay in Sweden or are forst to leave. From 2013, media have frequently reported about fires. The number of firefighters emergancey oporations to asylum housing went from around 20 (2012-2014) to 78 (2015). This data is provided by MSB – Swedish Civil Contingencies Agency that in june 2016 published a report that seeks to summerize and give description about the current state. 
+Among the hate crimes that often don't show up in police reports as hate crimes, are fires in asylum accomodations. Inhabitat accomodations that houses people who seek asulym in Sweden or unhabitat accomodations are being planned to house people seeking asylum. This is houses where people live temporarly while waiting for an answer if they are allowed to stay in Sweden or are forst to leave. From 2013, media have frequently reported about fires. The number of firefighters emergancey oporations to asylum housing went from around 20 (2012-2014) to 78 (2015). The statistic is provided by MSB – Swedish Civil Contingencies Agency that in june 2016 published a report that seeks to summerize the current state, on behalf of the Swedish government. The report also shows that of the 78 incidents in 2015;
+16 was reported being planned from the outside 
+11 from the inside
+27 categrised as accidents (for example cooking, candles)
+6 due to Suicide attempts/mental illness 
+14 uknown
+4 data not available
 
-
-The open data comes from...
-View the project as rendered [here](https://sofialauren.github.io/Final-Project/)
 
 
 ## Narrative
@@ -25,6 +30,7 @@ Inspiration:
 * [Drones Attacks Packistan](http://drones.pitchinteractive.com/)
 
 ## Usage
+The open data comes from...
 Data:
 * [Brå Hatbrottsstatistik](https://www.bra.se/brott-och-statistik/statistiska-undersokningar/hatbrottsstatistik.html)
 * [Brå rapport](https://www.bra.se/download/18.3c6dfe1e15691e1603eb65e3/1474958157817/2016_15_Hatbrott_2015.pdf)
