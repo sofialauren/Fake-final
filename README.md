@@ -4,7 +4,7 @@ Data vizalisation Class, DSI SVA
 
 ## Overview of last years increase of classified hate crimes in Sweden
 
-My final project focusing on the increased number of hate crimes in Sweden from 2013. The Swedish National Council for Crime Prevention produces data and research to provide knowledge and assist crime prevention work. Published statistic shows that the number of hate crimes with xenophobic / racist motive has increased as the number of hate crimes in general. They gather data from police reports identified as hate violation motives. But the number of police reports can only provide indications of how hate crimes are noted in police notifications but it says very little about the incidence of hate in society because most criminal events are not reported to police.
+My final project focusing on the increased number of hate crimes in Sweden from 2013. [The Swedish National Council for Crime Prevention](https://www.bra.se/bra-in-english/home/about-bra.html) produces data and research to provide knowledge and assist crime prevention work. Published statistic shows that the number of hate crimes with xenophobic / racist motive has increased as the number of hate crimes in general. They gather data from police reports identified as hate violation motives. But the number of police reports can only provide indications of how hate crimes are noted in police notifications but it says very little about the incidence of hate in society because most criminal events are not reported to police.
 
 
 
