@@ -5,11 +5,11 @@ Data vizalisation Class, DSI SVA
 View the project as rendered [here](https://sofialauren.github.io/Final-Project/).
 View data visualization made with [Tiki-Toki here](https://www.tiki-toki.com/timeline/entry/953280/Fires-in-Asylum-housing/).  
 
-## Last years increase of classified hate crimes in Sweden
+## Background: Last years increase of classified hate crimes in Sweden
 
-My final project focusing on the increased number of hate crimes in Sweden from 2013. [The Swedish National Council for Crime Prevention](https://www.bra.se/bra-in-english/home/about-bra.html) produces data and research to provide knowledge and assist crime prevention work. [Published statistic](https://www.bra.se/bra-in-english/home/crime-and-statistics/hate-crime.html) shows that the number of hate crimes with xenophobic / racist motive has increased as the number of hate crimes in general. They gather data from police reports identified as hate violation motives. But the number of police reports can only provide indications of how hate crimes are noted in police notifications but it says very little about the incidence of hate in society because most criminal events are not reported to police. Motives due to religious preferances, such as Christianophobic or Islamophobic has the most significant increase, while motives due to sexual orientation have slowly decreased from 2013. 
+My final project focusing on the increased number of hate crimes in Sweden during 2015. [The Swedish National Council for Crime Prevention](https://www.bra.se/bra-in-english/home/about-bra.html) produces data and research to provide knowledge and assist crime prevention work. [Their published statistic](https://www.bra.se/bra-in-english/home/crime-and-statistics/hate-crime.html) shows that the number of hate crimes with xenophobic / racist motive increased from 2013. The increase was most significant during 2015. Motives due to religious preferances, such as Christianophobic or Islamophobic have a significant increase, while motives due to sexual orientation have slowly gone down from 2013. The Swedish National Council for Crime Prevention gathers data from police reports identified as hate crime motives. But the number of police reports can only provide indications of how hate crimes are noted in police reports but it says very little about the incidence of hate in society because most criminal events are not reported to police. 
 
-Among the hate crimes that often don't show up in police reports as hate crimes, are fires in asylum accomodations. Inhabitat accomodations that houses people who seek asulym in Sweden or unhabitat accomodations that are being planned as asylum housing. People live there temporarly while waiting for an answer if they are allowed to stay in Sweden or are forst to leave. From 2013, media have frequently reported about fires. The number of firefighters emergancey oporations to asylum housing went from around 20 (2012-2014) to 78 (2015). The statistic is provided by MSB – Swedish Civil Contingencies Agency that in june 2016 published a report that seeks to summerize the current state, on behalf of the Swedish government. The report also shows that of the 78 incidents in 2015;
+Among the hate crimes that often don't show up in police reports, are fires in asylum accomodations. Inhabitat accomodations that houses people who seek asulym in Sweden or unhabitat accomodations that are being planned as asylum housing. People live there temporarly while waiting for an answer if they are allowed to stay in Sweden or are forst to leave. From 2013, media have frequently reported about fires. The number of firefighters emergancey oporations to asylum housing went from around 20 (2012-2014) to 78 (2015). The statistic is provided by MSB – Swedish Civil Contingencies Agency that in june 2016 published a report that seeks to summerize the current state, on behalf of the Swedish government. The report also shows that of the 78 incidents in 2015;
 * 16 "started" from the outside 
 * 11 from the inside
 * 27 categrised as accidents (for example cooking, candles)
@@ -19,27 +19,23 @@ Among the hate crimes that often don't show up in police reports as hate crimes,
 
 ![Picture burnet refugee residence in Sigtuna](https://i.imgur.com/cl1uJVR.jpg) A refugee residence in Sigtuna after a fire. Photo: Lars Pehrson
 
+## Narrative: Timeline Visualization
+
+To understand the political ...
 
 
 
-## Narrative
+## Description and Usage of Data
 
-## Description
-Description of the data, where its from, how I used it
+For information about the fire incidents I gathered news notifications published at [Sveriges Radio (SR)](http://sverigesradio.se/sida/artikel.aspx?programid=2438&artikel=5839007). Sveriges Radio is a non-commercial, independent public service radio broadcaster that provide high quality, impartial, and accurate news and programs for the Swedish population.
 
-Inspiration:
-* [Hart Island](https://www.hartisland.net/burial_records/map)
-* [Propublica Louisiana](http://projects.propublica.org/louisiana/)
-* [Drones Attacks Packistan](http://drones.pitchinteractive.com/)
+Data, statistics and analyse of the fires, was gathered from a [this report](https://www.msb.se/Upload/Kunskapsbank/Olycksundersokningar_ovrigt/Lagesbeskrivning_kring_brander_i_flyktingboenden_2012-2016.pdf)by MSB – Swedish Civil Contingencies Agency.
 
-## Usage
-The open data comes from...
-Data:
-* [Brå Hatbrottsstatistik](https://www.bra.se/brott-och-statistik/statistiska-undersokningar/hatbrottsstatistik.html)
-* [Brå rapport](https://www.bra.se/download/18.3c6dfe1e15691e1603eb65e3/1474958157817/2016_15_Hatbrott_2015.pdf)
-* [Rapport antal bränder i flyktingbostäder](https://www.msb.se/Upload/Kunskapsbank/Olycksundersokningar_ovrigt/Lagesbeskrivning_kring_brander_i_flyktingboenden_2012-2016.pdf)
+Backgorund data and hate crimes statistics was gathered from [Brottsförebyggande rådet (Brå)](https://www.bra.se/brott-och-statistik/statistiska-undersokningar/hatbrottsstatistik.html) as a [summerized report from 2015](https://www.bra.se/download/18.3c6dfe1e15691e1603eb65e3/1474958157817/2016_15_Hatbrott_2015.pdf)
+
+
+
 * [Sveriges statistik bas](http://www.statistikdatabasen.scb.se/pxweb/sv/ssd/START__ME__ME0104__ME0104C/?rxid=d3d03ba0-9be5-4c66-9838-ffee7e72be58)
-* [Sveriges radio](http://sverigesradio.se/sida/artikel.aspx?programid=83&artikel=6283376#vilhelmina)
 
 ## Procedure 
 First I...
@@ -64,6 +60,11 @@ Style guide
 
 ### Analyse
 xx
+
+Inspiration:
+* [Hart Island](https://www.hartisland.net/burial_records/map)
+* [Propublica Louisiana](http://projects.propublica.org/louisiana/)
+* [Drones Attacks Packistan](http://drones.pitchinteractive.com/)
 
 //
 
