@@ -31,7 +31,7 @@ To understand the data and increased number of fires at asylum accomodation I've
 
 Almost every week during 2015 new fires are reported at asylum accomodations. Media give it some attention but very little investment are made to solve these crimes or incidents. And new fires are still being reported. With this visualisation I hope to give some attention to the situation asylum seekers live in, and how little attention and support that are provided from the Swedish Guvernment to respond and act.  
 
-(Pictures from timline here)
+![Timeline](https://i.imgur.com/p9aTN4d.jpg)
 
 ### Visualization
 Before visualizing I went back to analyze and get inspiration from timeline and map data visualizations that have been presented in class and that I've seen before. [The Hart Island Project](https://www.hartisland.net/burial_records/map) "provides access to information about the burials on Hart Island" and tells the stories about the people who once was buried there. [Propublica Louisiana](http://projects.propublica.org/louisiana/) gives information about how the coastal landscape outside Lousiana have changed due to the rising sea level. [Drones Attacks Packistan](http://drones.pitchinteractive.com/) guides the viewer through the story of drones attacks in Pakistan. 
