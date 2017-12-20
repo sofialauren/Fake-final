@@ -36,7 +36,7 @@ Almost every week during 2015 new fires are reported at asylum accomodations. Me
 ### Visalization
 Before visualising I went back to analyse and get inpiration from timeline and map data visualizations that has been presented in class and that I seen before. [The Hart Island Project](https://www.hartisland.net/burial_records/map) "provides access to information about the burials on Hart Island" and tells the stories about the people who once was buried there. [Propublica Louisiana](http://projects.propublica.org/louisiana/) gives infromation about how the coastal landscape outside Lousiana have changed due to the rising sea level. [Drones Attacks Packistan](http://drones.pitchinteractive.com/) guides the viewer through story of drones attacs in Packistan. 
 
-I used Tiki-Toki to illustrate my Timeline graph. This is a simple tools that render the timeline based on informationen provided. Beside color scheme theres a number of decision to be made about the graphic style and structure. The cathegories, view type, zoom and spacing is mayor settings to be made. They support different media sources, like video, image and audio.  
+I used [Tiki-Toki](https://www.tiki-toki.com/) to illustrate my Timeline graph. This is a simple tools that render the timeline based on informationen provided. Beside color scheme theres a number of decision to be made about the graphic style and structure. The cathegories, view type, zoom and spacing is mayor settings to be made. They support different media sources, like video, image and audio.  
 
 This is a [style guide](https://docs.google.com/presentation/d/1HL4apfugezWc4-l2O0Kdm9mZONv9z3Lseq1X8V0as9M/edit#slide=id.p)for my final project. 
 
