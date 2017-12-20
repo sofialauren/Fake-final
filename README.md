@@ -1,7 +1,9 @@
 Final Project,
 Data vizalisation Class, DSI SVA
 12/19/17
+
 View the project as rendered with Github Pages [here](https://sofialauren.github.io/Final-Project/). Jekyll theme has been used for layout and style.
+
 View data visualization made with [Tiki-Toki here](https://www.tiki-toki.com/timeline/entry/953280/Fires-in-Asylum-housing/).  
 ## Background: Last years increase of classified hate crimes in Sweden
 
