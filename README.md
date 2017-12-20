@@ -38,8 +38,6 @@ Before visualizing I went back to analyze and get inspiration from timeline and 
 
 I used [Tiki-Toki](https://www.tiki-toki.com/) to illustrate my Timeline graph. This is a simple tool that renders the timeline based on information provided. Beside color scheme, there's decision to be made about the graphics style and structure. The categories, view type, zoom, and spacing is mayor settings to be made. They support different media sources, like video, image, and audio.  
 
-This is a [style guide](https://docs.google.com/presentation/d/1HL4apfugezWc4-l2O0Kdm9mZONv9z3Lseq1X8V0as9M/edit#slide=id.p)for my final project. 
-
 ## Description, Usage, and Analyse of Data
 
 For information about the fire incidents, I gathered news notifications published at [Sveriges Radio (SR)](http://sverigesradio.se/sida/artikel.aspx?programid=2438&artikel=5839007). Sveriges Radio is a non-commercial, independent public service radio broadcaster that provides high quality, impartial, and accurate news and programs for the Swedish population.
