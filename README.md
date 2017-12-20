@@ -25,19 +25,18 @@ To understand the data and increased number of fires at asylum accomodation I've
 
 2) The people who can seek asylum in Sweden are located to accomodation in bad condition. The Migration Agency pays private subcontractors to provide housing but puts very low requirements on quality of the housing and staff. In a study it appears that many of the private subcontractors make exceptionally large profits, while flaws about the housing are reported.
 
-3) Sweden Democrats (far-right, national-conservative, anti-immigration) goes from 5.7% votes 2010 to 12.86% 2014. Roots in Swedish fascism and white supremacy and with people in the founding party that expressed strong support of nazism.
+3) Sweden Democrats (far-right, national-conservative, anti-immigration) goes from 5.7% votes 2010 to 12.86% 2014 and today's polls shows 17.2%. The party have roots in Swedish fascism and white supremacy and people in the founding party have expressed strong support to nazism. Their political views gain footholds during times of fincial instability, reported terror attacs and fears for the future. 
+
+Almost every week during 2015 new fires are reported at asylum accomodations. Media give it some attention but very little investment are made to solve these crimes or incidents. And new fires are still being reported. With this visualisation I hope to give some attention to the situation asylum seekers live in, and how little attention and support that are provided from the Swedish Guvernment to respond and act.  
+
+(Pictures from timline here)
 
 ### Visalization
-I want to illustrate my narrative with Timeline graph
-[Test timeline with tiki-toki](https://www.tiki-toki.com/timeline/entry/953280/Fires-at-asylum-homes/)
+Before visualising I went back to analyse and get inpiration from timeline and map data visualizations that has been presented in class and that I seen before. [The Hart Island Project](https://www.hartisland.net/burial_records/map) "provides access to information about the burials on Hart Island" and tells the stories about the people who once was buried there. [Propublica Louisiana](http://projects.propublica.org/louisiana/) gives infromation about how the coastal landscape outside Lousiana have changed due to the rising sea level. [Drones Attacks Packistan](http://drones.pitchinteractive.com/) guides the viewer through story of drones attacs in Packistan. 
 
-Style guide
-* [Style guide for final project](https://docs.google.com/presentation/d/1HL4apfugezWc4-l2O0Kdm9mZONv9z3Lseq1X8V0as9M/edit#slide=id.p)
+I used Tiki-Toki to illustrate my Timeline graph. This is a simple tools that render the timeline based on informationen provided. Beside color scheme theres a number of decision to be made about the graphic style and structure. The cathegories, view type, zoom and spacing is mayor settings to be made. They support different media sources, like video, image and audio.  
 
-Inspiration:
-* [Hart Island](https://www.hartisland.net/burial_records/map)
-* [Propublica Louisiana](http://projects.propublica.org/louisiana/)
-* [Drones Attacks Packistan](http://drones.pitchinteractive.com/)
+This is a [style guide](https://docs.google.com/presentation/d/1HL4apfugezWc4-l2O0Kdm9mZONv9z3Lseq1X8V0as9M/edit#slide=id.p)for my final project. 
 
 ## Description, Usage and Analyse of Data
 
@@ -45,16 +44,5 @@ For information about the fire incidents I gathered news notifications published
 
 Data, statistics and analyse of the fires, was gathered from a [this report](https://www.msb.se/Upload/Kunskapsbank/Olycksundersokningar_ovrigt/Lagesbeskrivning_kring_brander_i_flyktingboenden_2012-2016.pdf)by MSB – Swedish Civil Contingencies Agency.
 
-Backgorund data and hate crimes statistics was gathered from [Brottsförebyggande rådet (Brå)](https://www.bra.se/brott-och-statistik/statistiska-undersokningar/hatbrottsstatistik.html) and from a [summerized report from 2015](https://www.bra.se/download/18.3c6dfe1e15691e1603eb65e3/1474958157817/2016_15_Hatbrott_2015.pdf)
-
-## Procedure 
-The process have been relative simple by using Tiki-Toki. Before deciding to illustrate my data with Tiki_Toki.. With the data hat provide a timline illustration 
-
-Tools:
-* [Timline JS](https://timeline.knightlab.com/)
-* [Google Developer](https://google-developers.appspot.com/chart/interactive/docs/gallery/timeline)
-
-Other potential visualizations and tools here:
-* [The Data Vizualisation Catalogue](https://datavizcatalogue.com/)
-* [Select Data visualisation](http://selection.datavisualization.ch/)
+Background data and hate crimes statistics was gathered from [Brottsförebyggande rådet (Brå)](https://www.bra.se/brott-och-statistik/statistiska-undersokningar/hatbrottsstatistik.html) and from a [summerized report from 2015](https://www.bra.se/download/18.3c6dfe1e15691e1603eb65e3/1474958157817/2016_15_Hatbrott_2015.pdf)
 
